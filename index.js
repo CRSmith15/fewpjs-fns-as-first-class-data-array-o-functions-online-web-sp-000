@@ -23,7 +23,7 @@ function unleashDog(dogName, dogBreed) {
 }
 
 const routine = [
-  wakeDog.
+  wakeDog,
   leashDog,
   walkToPark,
   throwFrisbee,
