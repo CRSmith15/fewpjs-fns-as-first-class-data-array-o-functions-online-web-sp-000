@@ -32,9 +32,6 @@ const routine = [
 ]
 
 function exerciseDog(dogName, dogBreed) {
-  let dogDay = []
-  let i = 0
-  for (i = 0; i < dogDay.length; i++)
-    return(routine[i]);
+  return routine.map(fn => fn(dogName, dogBreed))
 
 }
