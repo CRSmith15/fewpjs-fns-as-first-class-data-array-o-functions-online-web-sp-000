@@ -33,7 +33,7 @@ const routine = [
 
 function exerciseDog(dogName, dogBreed) {
   let dogDay = []
-  for (i = 0; i < dogDay.length; i++)
+  for (let i = 0; i < dogDay.length; i++)
     return(routine[i]);
 
 }
