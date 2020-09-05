@@ -30,3 +30,10 @@ const routine = [
   walkHome,
   unleashDog
 ]
+
+function exerciseDog(dogName, dogBreed) {
+  let dogDay = []
+  for (i = 0; i < dogDay.length; i++)
+    console.log(routine[i]);
+  
+}
